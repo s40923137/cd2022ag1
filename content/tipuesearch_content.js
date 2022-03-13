@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 為什麼都看不到別人的?', 'tags': '', 'url': 'About.html'}, {'title': '40923108', 'text': '', 'tags': '', 'url': '40923108.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '', 'tags': '', 'url': 'About.html'}, {'title': '40923101', 'text': '', 'tags': '', 'url': '40923101.html'}, {'title': '40923108', 'text': '', 'tags': '', 'url': '40923108.html'}]};
