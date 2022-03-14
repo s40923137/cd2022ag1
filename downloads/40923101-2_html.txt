@@ -1,5 +1,5 @@
 <h1>40923101</h1>
-<p>指定任務:有 38 個比較接近 NX1980 版本功能的教學影片，以 Wink 影片互相對照的方式採 NX1980 執行操作進行整理，完成後將所負責的 Wink 教學影片嵌入個人與大分組的 w3 中。</p>
+<p>指定任務:有 38 個比較接近 NX1980 版本功能的教學影片，以 Wink 影片互相對照的方式採 NX1980 執行操作進行整理，完成後將所負責的 Wink 教學影片嵌入個人與大分組的 w3 中。 test</p>
 <p><strong>NX Rendering&nbsp;</strong></p>
 <p><span style="color: #ff0000;">NX的渲染功能，可以選擇自己想設計的<strong>顏色</strong>、<strong>線條</strong>、<strong>材質</strong>及<strong>背景</strong>等等。</span></p>
 <p><strong></strong></p>
@@ -14,7 +14,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/wink18.mp4" type="video/mp4" /></video>
+<source src="https://a40923101.github.io/cd2022/downloads/wink18.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -39,7 +39,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/wink21.mp4" type="video/mp4" /></video>
+<source src="https://a40923101.github.io/cd2022/downloads/wink21.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -64,7 +64,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/wink19.mp4" type="video/mp4" /></video>
+<source src="https://a40923101.github.io/cd2022/downloads/wink19.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -89,7 +89,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/wink20.mp4" type="video/mp4" /></video>
+<source src="https://a40923101.github.io/cd2022/downloads/wink20.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -115,7 +115,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/wink22.mp4" type="video/mp4" /></video>
+<source src="https://a40923101.github.io/cd2022/downloads/wink22.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
