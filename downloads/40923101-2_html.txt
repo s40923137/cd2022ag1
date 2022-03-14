@@ -14,7 +14,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/wink18.mp4" type="video/mp4" /></video>
+<source src="https://a40923101.github.io/cd2022/downloads/wink18.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -39,7 +39,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/wink21.mp4" type="video/mp4" /></video>
+<source src="https://a40923101.github.io/cd2022/downloads/wink21.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -64,7 +64,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/wink19.mp4" type="video/mp4" /></video>
+<source src="https://a40923101.github.io/cd2022/downloads/wink19.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -89,7 +89,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/wink20.mp4" type="video/mp4" /></video>
+<source src="https://a40923101.github.io/cd2022/downloads/wink20.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -115,7 +115,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="/downloads/wink22.mp4" type="video/mp4" /></video>
+<source src="https://a40923101.github.io/cd2022/downloads/wink22.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
