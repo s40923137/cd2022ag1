@@ -1,6 +1,6 @@
 Title: About
 
-## CMSimfly 內容管理網誌
+## CD2022 內容管理網誌
 
 課程倉儲: <a href="https://github.com/s40923137/cd2022ag1">https://github.com/s40923137/cd2022ag1</a>
 
