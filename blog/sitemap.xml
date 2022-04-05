@@ -5,63 +5,63 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://s40923137.github.io/cd2022ag1/blog/</loc>
-<lastmod>2022-04-05T21:36:34-00:00</lastmod>
+<lastmod>2022-04-05T21:45:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40923137.github.io/cd2022ag1/blog/archives.html</loc>
-<lastmod>2022-04-05T21:36:34-00:00</lastmod>
+<lastmod>2022-04-05T21:45:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40923137.github.io/cd2022ag1/blog/tags.html</loc>
-<lastmod>2022-04-05T21:36:34-00:00</lastmod>
+<lastmod>2022-04-05T21:45:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40923137.github.io/cd2022ag1/blog/categories.html</loc>
-<lastmod>2022-04-05T21:36:34-00:00</lastmod>
+<lastmod>2022-04-05T21:45:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40923137.github.io/cd2022ag1/blog/pages/about/</loc>
-<lastmod>2022-04-05T21:36:10+08:00</lastmod>
+<lastmod>2022-04-05T21:43:40+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://s40923137.github.io/cd2022ag1/blog/w6_40923137 blog.html</loc>
-<lastmod>2022-04-05T18:55:08+08:00</lastmod>
+<loc>https://s40923137.github.io/cd2022ag1/blog/w6_40923137.html</loc>
+<lastmod>2022-04-05T21:45:08+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40923137.github.io/cd2022ag1/blog/category/misc.html</loc>
-<lastmod>2022-04-05T18:55:08+08:06</lastmod>
+<lastmod>2022-04-05T21:45:08+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40923137.github.io/cd2022ag1/blog/tag/cd2022.html</loc>
-<lastmod>2022-04-05T18:55:08+08:06</lastmod>
+<lastmod>2022-04-05T21:45:08+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40923137.github.io/cd2022ag1/blog/author/40923137.html</loc>
-<lastmod>2022-04-05T18:55:08+08:06</lastmod>
+<lastmod>2022-04-05T21:45:08+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
